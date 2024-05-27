@@ -5,7 +5,7 @@
 
 HySEA (Hyperbolic Systems and Efficient Algorithms) is a high-performance package developed by the EDANYA group at the University of Málaga, Spain, for the simulation of geophysical flows.
 
-DebrisFlow-HySEA is a module of HySEA to simulate tsunamis propagation including dispersive effects.
+DebrisFlow-HySEA is a module of HySEA to simulate debris flows.
 
 ## Important notice
 
